@@ -1,8 +1,16 @@
 # Change Log - @scayle/panel-icons
 
-<!-- This log was last generated on Tue, 28 Oct 2025 16:06:54 GMT and should not be manually modified. -->
+<!-- This log was last generated on Tue, 06 Jan 2026 08:35:44 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 4.1.0
+
+Tue, 06 Jan 2026 08:35:44 GMT
+
+### Minor changes
+
+- Add "column-settings" icon + Package updates (daniele.rapisarda@scayle.com)
 
 ## 4.0.1
 

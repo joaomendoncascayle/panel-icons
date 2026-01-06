@@ -2,6 +2,21 @@
   "name": "@scayle/panel-icons",
   "entries": [
     {
+      "date": "Tue, 06 Jan 2026 08:35:44 GMT",
+      "version": "4.1.0",
+      "tag": "@scayle/panel-icons_v4.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "daniele.rapisarda@scayle.com",
+            "package": "@scayle/panel-icons",
+            "commit": "a614f5caf41213d567b3e0c87a7f00d4796899ea",
+            "comment": "Add \"column-settings\" icon + Package updates"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 28 Oct 2025 16:06:54 GMT",
       "version": "4.0.1",
       "tag": "@scayle/panel-icons_v4.0.1",
