@@ -1,8 +1,16 @@
 # Change Log - @scayle/panel-icons
 
-<!-- This log was last generated on Tue, 06 Jan 2026 08:35:44 GMT and should not be manually modified. -->
+<!-- This log was last generated on Wed, 07 Jan 2026 12:59:55 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 4.2.0
+
+Wed, 07 Jan 2026 12:59:55 GMT
+
+### Minor changes
+
+- add Product AI icon (daniele.rapisarda@scayle.com)
 
 ## 4.1.0
 

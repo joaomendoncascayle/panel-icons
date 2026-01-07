@@ -2,6 +2,21 @@
   "name": "@scayle/panel-icons",
   "entries": [
     {
+      "date": "Wed, 07 Jan 2026 12:59:55 GMT",
+      "version": "4.2.0",
+      "tag": "@scayle/panel-icons_v4.2.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "daniele.rapisarda@scayle.com",
+            "package": "@scayle/panel-icons",
+            "commit": "a80b70d6c04a3b903c7906b38e46019313ebe53d",
+            "comment": "add Product AI icon"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 06 Jan 2026 08:35:44 GMT",
       "version": "4.1.0",
       "tag": "@scayle/panel-icons_v4.1.0",
